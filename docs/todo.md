@@ -7,3 +7,8 @@ List of what needs to be done on the app. It's unorganized so far but I might ch
 - [ ] Come up with a UI design
 - [ ] Find a publicly-available spacey image (creative commons?)
 - [ ] Revisit the logo design
+
+
+***
+
+This file is deprecated. Moved the list to the AENEID project here on GitHub. I'm gonna leave it here though just for fun.
